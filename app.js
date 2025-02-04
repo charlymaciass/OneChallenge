@@ -1,4 +1,4 @@
-let amigos = []; // Array para almacenar los nombres de los amigos
+let amigos = []; // Array para los nombres de los amigos
 
 function agregarAmigo() {
     const nombreInput = document.getElementById("amigo");
